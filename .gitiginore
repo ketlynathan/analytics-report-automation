@@ -1,0 +1,40 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual env ---
+venv/
+.env/
+.venv/
+
+# --- Configs de IDE ---
+.vscode/
+.idea/
+
+# --- Logs e temporários ---
+*.log
+*.tmp
+*.bak
+
+# --- Arquivos de banco/local ---
+*.sqlite3
+*.db
+
+# --- Arquivos de dados (se forem gerados) ---
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+
+# --- Arquivos de build ---
+build/
+dist/
+*.egg-info/
+
+# --- Arquivos do Jupyter ---
+.ipynb_checkpoints/
+
+# --- SO trash ---
+.DS_Store
+Thumbs.db
