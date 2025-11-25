@@ -34,7 +34,5 @@ Empresas recebem arquivos de vendas (Excel/CSV) frequentemente:
 
 O projeto resolve isso criando um **pipeline reprodutível e automatizado**.
 
----
 
-## 🛠 Arquitetura do Projeto
 
