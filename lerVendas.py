@@ -22,3 +22,4 @@ import pandas as pd
 
 vendasArq_df = pd.read_excel('Vendas1.xlsx')
 print(vendasArq_df.describe())
+print(vendasArq_df.head())
