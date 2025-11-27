@@ -5,6 +5,7 @@ Automated Data Analysis & Reporting Pipeline
 ![Pandas](https://img.shields.io/badge/Pandas-Library-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
